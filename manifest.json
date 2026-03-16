@@ -1,0 +1,34 @@
+{
+  "version": 1,
+  "locale": "en_GB",
+  "platform": "4.3.3",
+  "metadata": {
+    "appmode": "static",
+    "primary_rmd": null,
+    "primary_html": "scripts/er_prog4c_1_VT_2025-V1.html",
+    "content_category": null,
+    "has_parameters": false
+  },
+  "packages": null,
+  "files": {
+    "presentations/Introduction to the project.pptx": {
+      "checksum": "308f63fedde2c38f56f61ff09c56e3ca"
+    },
+    "presentations/Presentation2.pdf": {
+      "checksum": "7b4e4ca9b1c8bdf4c9293d9b08c4338c"
+    },
+    "presentations/Results.pptx": {
+      "checksum": "b89d8dc96f5a0e9dabf13d146b79b5c5"
+    },
+    "presentations/RPubs_Publishing_Guide.pptx": {
+      "checksum": "848fd05052f53364767d03f5bce86a0a"
+    },
+    "scripts/er_prog4c_1_VT_2025-V1.html": {
+      "checksum": "0eda47666a1097a0eb9399a0de1eabc9"
+    },
+    "scripts/er_prog4c_1_VT_2025 V1.Rmd": {
+      "checksum": "c49f5825cf684c706b74c3b8fb837311"
+    }
+  },
+  "users": null
+}
